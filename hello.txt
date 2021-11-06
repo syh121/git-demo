@@ -15,11 +15,5 @@ qweqwe3333333
 qweqwefixfix
 qweqwefixfix
 qweqwe
-qweqwe
-<<<<<<< HEAD
-qweqwe
 qweqwe master test
-=======
 qweqwe hot-fix
-qweqwe
->>>>>>> hot-fix
